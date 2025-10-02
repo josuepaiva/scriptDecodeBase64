@@ -15,7 +15,7 @@ Before you begin, ensure you have the following installed on your system:
 Follow these steps to get the project up and running.
 
 ### 1. Get the Code
-Clone this repository or simply download the `download.js` and `package.json` files into a new project folder.
+Clone this repository or simply download the `index.js` and `package.json` files into a new project folder.
 
 ### 2. Install Dependencies
 Navigate to your project directory in the terminal and run the following command to install the required packages (`ssh2` and `dotenv`):
