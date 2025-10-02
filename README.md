@@ -33,6 +33,7 @@ SFTP_HOST=your_sftp_server.com
 SFTP_PORT=22
 SFTP_USER=your_username
 SFTP_PHRASE=your_passphrase
+SFTP_PRIVATE_KEY_PATH=yourprivateKeyBase64
 ```
 > **🔐 Security Note:** Remember to add the `.env` file to your `.gitignore` to prevent committing your credentials to version control.
 
