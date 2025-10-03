@@ -67,7 +67,7 @@ The script will connect to the server, download and decode the file, and place t
 ├── output/                  # Folder for downloaded & decoded files
 ├── .env                     # Your secret credentials
 ├── .gitignore               # Ignores .env and node_modules
-├── index.js              # The main script
+├── index.js                 # The main script
 ├── package.json             # Project dependencies
 └── package-lock.json
 ```
